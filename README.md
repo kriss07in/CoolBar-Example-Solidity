@@ -1,2 +1,2 @@
 # CoolBar-Example-Solidity
-Solidity smart contract for CoolBar example
+Solidity smart contract example for CoolBar
